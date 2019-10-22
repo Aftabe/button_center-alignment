@@ -1,0 +1,19 @@
+body{
+  background: rgb(179, 173, 173);
+  position: relative;
+}
+
+.main-heading {
+  text-align: center;
+}
+
+.custom-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn {
+  text-align: center;
+}
