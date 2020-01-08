@@ -1,1 +1,1 @@
-alert('Hey there! this is an alert winow.');
+alert('Hey there! this is an alert window.');
