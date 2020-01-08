@@ -1,10 +1,12 @@
 body {
   background: rgb(179, 173, 173);
   position: relative;
+  color: black;
 }
 
 .main-heading {
   text-align: center;
+  text-transform: capitalize;
 }
 
 .custom-btn {
