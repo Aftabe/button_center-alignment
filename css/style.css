@@ -10,6 +10,9 @@ body {
 }
 
 .button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -17,13 +20,18 @@ body {
   padding: .5rem 1rem;
   font-size: 1rem;
   text-transform: uppercase;
+  transition: .2s all ease-in-out;
+}
+
+.button1:hover {
+  background-color: #dad5d5 ;
 }
 
 .main-btn-class {
   padding: .5rem 1rem;
   text-transform: uppercase;
   font-size: 1rem;
-
+  
 }
 
 .button {
@@ -32,5 +40,12 @@ body {
 
 .button2 {
   padding: .5rem 1.8rem;
-  
+  background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;
+  transition: .2s all ease-in-out;
+}
+
+.button2:hover{
+  background-color: #dad5d5;
 }
