@@ -1,1 +1,0 @@
-alert('Hey there! this is an alert window.');
