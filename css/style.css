@@ -9,7 +9,7 @@ body {
   text-transform: capitalize;
 }
 
-.custom-btn {
+.button1 {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -28,5 +28,9 @@ body {
 
 .button {
   text-align: center;
+}
 
+.button2 {
+  padding: .5rem 1.8rem;
+  
 }
