@@ -4,11 +4,6 @@ body {
   color: black;
 }
 
-.main-heading {
-  text-align: center;
-  text-transform: capitalize;
-}
-
 .button1 {
   background-color: white; 
   color: black; 
@@ -44,6 +39,7 @@ body {
   color: black; 
   border: 2px solid #f44336;
   transition: .2s all ease-in-out;
+  margin-top: 40px;
 }
 
 .button2:hover{
